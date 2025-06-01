@@ -1,0 +1,17 @@
+node_modules/
+android/
+ios/
+*.log
+*.js.map
+.DS_Store
+.expo/
+.vscode/
+validate-app.js
+__tests__/
+metro.config.js
+babel.config.js
+jest.config.js
+.eslintrc.js
+app.json
+tsconfig.json
+package.json

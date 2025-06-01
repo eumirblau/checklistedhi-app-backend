@@ -1,0 +1,14 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno y secretos locales
+.env
+*.json # Si guardas la clave directamente en la carpeta y no en .secrets, aunque no es lo ideal
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs (opcional, pero común)
+.vscode/

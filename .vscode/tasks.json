@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"command": "cd ChecklistApp && npm run android",
+			"group": "build",
+			"isBackground": false,
+			"label": "Build and Run Android App - Fixed",
+			"problemMatcher": [],
+			"type": "shell"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "functions-framework --target=getJefesDeGrupo --port=8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "getjefesdegrupo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^4.0.0",
+    "googleapis": "^105.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ChecklistApp",
+  "slug": "checklist-app",
+  "version": "1.0.0",
+  "platforms": ["ios", "android"]
+}
